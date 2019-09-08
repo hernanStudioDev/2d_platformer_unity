@@ -1,2 +1,1 @@
-# 2d_platformer_monogame
-2D Platform Game Simulation
+# 2d_platformer_unity
